@@ -1,0 +1,9 @@
+Adidas_M
+Nike_M
+Ecco_M
+Adidas_L
+Nike_L
+Ecco_L
+Adidas_XL
+Nike_XL
+Ecco_XL
